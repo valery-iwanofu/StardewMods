@@ -10,3 +10,6 @@
 ```
 For 4-6 radioactive ore you need 25/20/15/10 copper/iron/gold/irridium ores and 1 coal.
 ```
+
+# Credits
+Thanks to [vin163](https://www.nexusmods.com/stardewvalley/users/8195331) for providing the French translation

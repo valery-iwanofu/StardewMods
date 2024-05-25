@@ -1,7 +1,7 @@
 {
 	"Name": "OreIrradiator",
 	"Author": "Iwanofu",
-	"Version": "0.0.1",
+	"Version": "0.0.2",
 	"Description": "Adds an \"Ore Irradiator\" machine to convert ordinary ore into radioactive ore",
 	"UniqueID": "Iwanofu.OreIrradiator",
 	"UpdateKeys": [

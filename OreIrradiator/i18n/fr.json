@@ -1,0 +1,10 @@
+{
+    "DisplayName": "Irradiateur de minerais",
+    "Description": "Transforme le minerai et le charbon en minerai radioactif.",
+
+    "NotEnoughCopper": "Nécessite 25 minerais de cuivre.",
+    "NotEnoughIron": "Nécessite 20 minerais de fer.",
+    "NotEnoughGold": "Nécessite 15 minerais d'or.",
+    "NotEnoughIrridium": "Nécessite 10 minerais d'iridium.",
+    "InvalidItem": "Nécessite 25/20/15/10 minerais de cuivre/fer/or/iridium."
+}
