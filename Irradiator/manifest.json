@@ -1,0 +1,11 @@
+{
+	"Name": "Irradiator",
+	"Author": "Iwanofu",
+	"Version": "0.0.1",
+	"Description": "Adds an \"Irradiator\" machine to convert ordinary ore into radioactive ore",
+	"UniqueID": "Iwanofu.Irradiator",
+	"UpdateKeys": [], // when you release the mod, see https://stardewvalleywiki.com/Modding:Modder_Guide/APIs/Update_checks
+	"ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher"
+	}
+}
