@@ -6,7 +6,7 @@
       "Entries": {
         "{{ModId}}.Irradiator": {
           "Name": "{{ModId}}.Irradiator",
-          "DisplayName": "Irradiator",
+          "DisplayName": "Ore Irradiator",
           "Description": "Be careful!",
           "Price": 55,
           "Texture": "{{ModId}}/Texture/Irradiator",

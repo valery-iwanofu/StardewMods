@@ -7,5 +7,10 @@
             ],
             "url": "https://smapi.io/schemas/content-patcher.json"
         }
-    ]
+    ],
+    "files.associations": {
+        "**/manifest.json": "jsonc",
+        "**/content.json": "jsonc",
+        "**/assets/*.json": "jsonc"
+    }
 }
