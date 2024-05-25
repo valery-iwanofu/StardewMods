@@ -18,10 +18,4 @@
 		<Copy SourceFiles="content.json" DestinationFolder="$(OutDir)" />
 		<Delete Files="$(OutDir)$(TargetFileName)"></Delete>
 	</Target>
-
-	<ProjectExtensions>
-		<VisualStudio>
-			<UserProperties content_1json__JsonSchema="https://smapi.io/schemas/content-patcher.json" />
-		</VisualStudio>
-	</ProjectExtensions>
 </Project>

@@ -1,0 +1,11 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/CraftingRecipes",
+      "Entries": {
+        "Qi Seasoning": "72 2/Field/917/false/null/"
+      }
+    }
+  ]
+}

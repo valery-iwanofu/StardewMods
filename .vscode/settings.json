@@ -1,0 +1,11 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "**/content.json",
+                // "**/assets/Data/*.json"
+            ],
+            "url": "https://smapi.io/schemas/content-patcher.json"
+        }
+    ]
+}

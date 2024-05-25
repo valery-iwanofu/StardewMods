@@ -1,0 +1,49 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Shops",
+      "TargetField": [
+        "QiGemShop",
+        "Items"
+      ],
+      "Entries": {
+        "Iwanofu.Irradiator.Test": {
+          "ActionsOnPurchase": null,
+          "CustomFields": null,
+          "TradeItemId": "(O)858",
+          "TradeItemAmount": 30,
+          "Price": -1,
+          "ApplyProfitMargins": null,
+          "AvailableStock": -1,
+          "AvailableStockLimit": "Global",
+          "AvoidRepeat": false,
+          "UseObjectDataPrice": false,
+          "IgnoreShopPriceModifiers": false,
+          "PriceModifiers": null,
+          "PriceModifierMode": "Stack",
+          "AvailableStockModifiers": null,
+          "AvailableStockModifierMode": "Stack",
+          "Condition": null,
+          "Id": "(O)917 (Recipe)",
+          "ItemId": "(O)917",
+          "RandomItemId": null,
+          "MaxItems": null,
+          "MinStack": -1,
+          "MaxStack": -1,
+          "Quality": -1,
+          "ObjectInternalName": null,
+          "ObjectDisplayName": null,
+          "ToolUpgradeLevel": -1,
+          "IsRecipe": true,
+          "StackModifiers": null,
+          "StackModifierMode": "Stack",
+          "QualityModifiers": null,
+          "QualityModifierMode": "Stack",
+          "ModData": null,
+          "PerItemCondition": null
+        }
+      }
+    }
+  ]
+}
