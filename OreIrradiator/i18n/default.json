@@ -1,0 +1,10 @@
+{
+    "DisplayName": "Ore Irradiator",
+    "Description": "Turns ore and coal into radioactive ore.",
+
+    "NotEnoughCopper": "Requires 25 copper ores.",
+    "NotEnoughIron": "Requires 20 iron ores.",
+    "NotEnoughGold": "Requires 15 gold ores.",
+    "NotEnoughIrridium": "Requires 10 iridium ores.",
+    "InvalidItem": "Requires 25/20/15/10 copper/iron/gold/iridium ores."
+}

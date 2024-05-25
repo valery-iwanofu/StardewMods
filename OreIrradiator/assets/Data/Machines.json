@@ -56,7 +56,7 @@
               ],
               "MinutesUntilReady": 600,
               "DaysUntilReady": -1,
-              "InvalidCountMessage": null,
+              "InvalidCountMessage": "{{i18n:NotEnoughCopper}}",
               "RecalculateOnCollect": false
             },
             {
@@ -106,7 +106,7 @@
               ],
               "MinutesUntilReady": 600,
               "DaysUntilReady": -1,
-              "InvalidCountMessage": null,
+              "InvalidCountMessage": "{{i18n:NotEnoughIron}}",
               "RecalculateOnCollect": false
             },
             {
@@ -156,7 +156,7 @@
               ],
               "MinutesUntilReady": 600,
               "DaysUntilReady": -1,
-              "InvalidCountMessage": null,
+              "InvalidCountMessage": "{{i18n:NotEnoughGold}}",
               "RecalculateOnCollect": false
             },
             {
@@ -206,7 +206,7 @@
               ],
               "MinutesUntilReady": 600,
               "DaysUntilReady": -1,
-              "InvalidCountMessage": null,
+              "InvalidCountMessage": "{{i18n:NotEnoughIrridium}}",
               "RecalculateOnCollect": false
             }
           ],
@@ -222,7 +222,7 @@
           "ReadyTimeModifierMode": "Stack",
           "InvalidItemMessage": null,
           "InvalidItemMessageCondition": null,
-          "InvalidCountMessage": "[LocalizedText Strings\\StringsFromCSFiles:Object.cs.12777]",
+          "InvalidCountMessage": "{{i18n:InvalidItem}}",
           "LoadEffects": [
             {
               "Id": "Default",

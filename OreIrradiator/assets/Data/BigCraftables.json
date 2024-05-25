@@ -6,8 +6,8 @@
       "Entries": {
         "{{ModId}}.Irradiator": {
           "Name": "{{ModId}}.Irradiator",
-          "DisplayName": "Ore Irradiator",
-          "Description": "Be careful!",
+          "DisplayName": "{{i18n:DisplayName}}",
+          "Description": "{{i18n:Description}}",
           "Price": 55,
           "Texture": "{{ModId}}/Texture/Irradiator",
           "SpriteIndex": 0,

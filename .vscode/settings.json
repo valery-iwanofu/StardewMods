@@ -6,11 +6,18 @@
                 // "**/assets/Data/*.json"
             ],
             "url": "https://smapi.io/schemas/content-patcher.json"
+        },
+        {
+            "fileMatch": [
+                "**/i18n/*.json"
+            ],
+            "url": "https://smapi.io/schemas/i18n.json"
         }
     ],
     "files.associations": {
         "**/manifest.json": "jsonc",
         "**/content.json": "jsonc",
-        "**/assets/*.json": "jsonc"
+        "**/assets/*.json": "jsonc",
+        "**/i18n/*.json": "jsonc",
     }
 }
