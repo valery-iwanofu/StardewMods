@@ -4,7 +4,7 @@
       "Action": "EditData",
       "Target": "Data/CraftingRecipes",
       "Entries": {
-        "Qi Seasoning": "72 2/Field/917/false/null/"
+        "{{ModId}}.Irradiator": "(BC)13 2 910 3 390 50 645 1/Home/{{ModId}}.Irradiator/true/null/"
       }
     }
   ]

@@ -1,0 +1,14 @@
+{
+    "Changes": [
+        {
+            "Action": "Load",
+            "Target": "{{ModId}}/Texture/Irradiator",
+            "FromFile": "assets/Texture/Irradiator.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "{{ModId}}/Texture/Animation",
+            "FromFile": "assets/Texture/Animation.png"
+        }
+    ]
+}

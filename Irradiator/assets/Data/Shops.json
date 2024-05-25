@@ -8,11 +8,9 @@
         "Items"
       ],
       "Entries": {
-        "Iwanofu.Irradiator.Test": {
-          "ActionsOnPurchase": null,
-          "CustomFields": null,
+        "{{ModId}}.Test": {
           "TradeItemId": "(O)858",
-          "TradeItemAmount": 30,
+          "TradeItemAmount": 50,
           "Price": -1,
           "ApplyProfitMargins": null,
           "AvailableStock": -1,
@@ -25,8 +23,8 @@
           "AvailableStockModifiers": null,
           "AvailableStockModifierMode": "Stack",
           "Condition": null,
-          "Id": "(O)917 (Recipe)",
-          "ItemId": "(O)917",
+          "Id": "(BC){{ModId}}.Irradiator (Recipe)",
+          "ItemId": "(BC){{ModId}}.Irradiator",
           "RandomItemId": null,
           "MaxItems": null,
           "MinStack": -1,

@@ -1,0 +1,22 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries": {
+                "{{ModId}}.IrradiatorWork": {
+                    "ID": "{{ModId}}.IrradiatorWork",
+                    "Category": "Ambient",
+                    "FilePaths": ["{{AbsoluteFilePath: assets/Sound/IrradiatorWork.ogg}}"],
+                    "StreamedVorbis": true
+                },
+                "{{ModId}}.IrradiatorIn": {
+                    "ID": "{{ModId}}.IrradiatorIn",
+                    "Category": "Ambient",
+                    "FilePaths": ["{{AbsoluteFilePath: assets/Sound/IrradiatorIn.ogg}}"],
+                    "StreamedVorbis": true
+                }
+            }
+        }
+    ]
+}

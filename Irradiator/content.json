@@ -3,11 +3,29 @@
   "Changes": [
     {
       "Action": "Include",
+      "FromFile": "assets/Data/BigCraftables.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "assets/Data/Machines.json"
+    },
+
+    {
+      "Action": "Include",
       "FromFile": "assets/Data/CraftingRecipes.json"
     },
     {
       "Action": "Include",
       "FromFile": "assets/Data/Shops.json"
+    },
+
+    {
+      "Action": "Include",
+      "FromFile": "assets/Textures.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "assets/Audio.json"
     }
   ]
 }
